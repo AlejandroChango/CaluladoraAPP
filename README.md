@@ -1,7 +1,7 @@
 # CalculadoraAPP
 en Klotin
 Una aplicación de calculadora simple para Android desarrollada en Kotlin. La aplicación permite realizar operaciones básicas como suma, resta, multiplicación y división.
-[Descargar CalculadoraAPP v1.0](https://github.com/AlejandroChango/CaluladoraAPP/releases/tag/v1.0/CalculadoraApp.apk)
+[Descargar CalculadoraAPP v1.0](https://github.com/alejandrochango/CalculadoraAPP/releases/download/v1.0/CalculadoraAPP.apk)
 
 
 ## Características
